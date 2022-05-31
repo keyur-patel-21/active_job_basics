@@ -8,6 +8,7 @@ Rails.application.routes.draw do
     namespace :v1 do
       resources :users
       get '/test', to: 'users#test'
+      get '/test_later', to: 'users#test_later'
     end
   end
 end
