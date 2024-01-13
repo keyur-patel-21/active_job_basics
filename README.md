@@ -1,24 +1,15 @@
-# README
+# Active Job Basic
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repository serves as a learning resource for understanding the basics of using Active Job in Ruby on Rails for background job processing.
 
-Things you may want to cover:
+## Overview
 
-* Ruby version
+Active Job is a framework in Ruby on Rails that allows you to enqueue and execute background jobs. It provides a unified interface to various queuing backends, making it easy to switch between them.
 
-* System dependencies
+## Getting Started
 
-* Configuration
+Follow these steps to get started with the project:
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/Active_job_basic.git
